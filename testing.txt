@@ -1,5 +1,2 @@
 Hola mundo!!!
 this is good
-seguimos en la rama bugFix con algo nuevo
-más cosas
-nuevas más cosas
